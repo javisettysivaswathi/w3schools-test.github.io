@@ -1,0 +1,8 @@
+.DS_Store
+Thunbs.db
+.vscode/
+node_modules/
+logs/
+*.log
+.env
+
